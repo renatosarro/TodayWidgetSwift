@@ -1,0 +1,21 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "2c6f9d5ef86d6f192e1676e074f48ca1"
+build_time: [511988829, 577904000]
+inputs:
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Error.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Response.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Download.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/ResponseSerialization.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Alamofire.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Notifications.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/MultipartFormData.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/ParameterEncoding.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Manager.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Request.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Timeline.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Validation.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Upload.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/ServerTrustPolicy.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Result.swift": [511988795, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/Pods/Alamofire/Source/Stream.swift": [511988795, 0]

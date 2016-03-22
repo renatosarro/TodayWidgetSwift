@@ -1,0 +1,18 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '8.0'
+use_frameworks!
+
+def dev_dependecias
+    pod "Alamofire", "~> 3.0"
+    pod "ObjectMapper"
+end
+
+target 'SampleToday' do
+	dev_dependecias
+end
+
+target 'TodayWidget' do
+    dev_dependecias
+end
+

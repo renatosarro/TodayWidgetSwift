@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "9c392c7aae64809d921c87fbd9fb79a8"
+build_time: [511988833, 545909000]
+inputs:
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/SampleToday/AppDelegate.swift": [511988607, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/SampleToday/ViewController.swift": [511988607, 0]

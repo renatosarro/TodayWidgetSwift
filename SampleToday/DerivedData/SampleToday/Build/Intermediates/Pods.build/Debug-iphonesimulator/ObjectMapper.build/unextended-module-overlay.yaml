@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Intermediates/Pods.build/Debug-iphonesimulator/ObjectMapper.build/unextended-module.modulemap',
+    }]
+  }]
+}

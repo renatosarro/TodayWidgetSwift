@@ -1,0 +1,126 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NetworkBase"
+provides-nominal:
+- "C11TodayWidget11NetworkBase"
+provides-member:
+- ["C11TodayWidget11NetworkBase", ""]
+provides-dynamic-lookup:
+- "callMethod"
+- "baseUrl"
+depends-top-level:
+- "Void"
+- "StringLiteralType"
+- "NSObject"
+- "NSError"
+- !private "Alamofire"
+- "NetworkBase"
+- "AnyObject"
+depends-member:
+- !private ["PSs9AnyObject", "Alamofire"]
+- ["PSs9AnyObject", "baseUrl"]
+- ["PSs9AnyObject", "callMethod"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "responseJSON"]
+- !private ["PSs9AnyObject", "validate"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "Alamofire"]
+- ["PSs11CVarArgType", "baseUrl"]
+- ["PSs11CVarArgType", "callMethod"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs28CustomDebugStringConvertible", "Failure"]
+- !private ["PSs28CustomDebugStringConvertible", "Success"]
+- !private ["PSs28CustomDebugStringConvertible", "error"]
+- !private ["PSs28CustomDebugStringConvertible", "responseJSON"]
+- !private ["PSs28CustomDebugStringConvertible", "result"]
+- !private ["PSs28CustomDebugStringConvertible", "validate"]
+- !private ["PSs28CustomDebugStringConvertible", "value"]
+- !private ["PSs23CustomStringConvertible", "Alamofire"]
+- !private ["PSs23CustomStringConvertible", "Failure"]
+- !private ["PSs23CustomStringConvertible", "Success"]
+- ["PSs23CustomStringConvertible", "baseUrl"]
+- ["PSs23CustomStringConvertible", "callMethod"]
+- !private ["PSs23CustomStringConvertible", "error"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "responseJSON"]
+- !private ["PSs23CustomStringConvertible", "result"]
+- !private ["PSs23CustomStringConvertible", "validate"]
+- !private ["PSs23CustomStringConvertible", "value"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "Alamofire"]
+- !private ["PSs9Equatable", "GET"]
+- ["PSs9Equatable", "baseUrl"]
+- ["PSs9Equatable", "callMethod"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "Alamofire"]
+- !private ["PSs8Hashable", "GET"]
+- ["PSs8Hashable", "baseUrl"]
+- ["PSs8Hashable", "callMethod"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", ""]
+- !private ["O9Alamofire6Method", "GET"]
+- !private ["CSo8NSObject", "Alamofire"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "NSError"]
+- ["CSo8NSObject", "Void"]
+- ["CSo8NSObject", "baseUrl"]
+- ["CSo8NSObject", "callMethod"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "Alamofire"]
+- ["PSo16NSObjectProtocol", "baseUrl"]
+- ["PSo16NSObjectProtocol", "callMethod"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["C11TodayWidget11NetworkBase", "Alamofire"]
+- ["C11TodayWidget11NetworkBase", "AnyObject"]
+- ["C11TodayWidget11NetworkBase", "NSError"]
+- ["C11TodayWidget11NetworkBase", "Void"]
+- ["C11TodayWidget11NetworkBase", "baseUrl"]
+- ["C11TodayWidget11NetworkBase", "callMethod"]
+- ["C11TodayWidget11NetworkBase", "deinit"]
+- ["C11TodayWidget11NetworkBase", "init"]
+- !private ["PSs16RawRepresentable", "GET"]
+- !private ["C9Alamofire7Request", "responseJSON"]
+- !private ["C9Alamofire7Request", "validate"]
+- !private ["V9Alamofire8Response", "result"]
+- !private ["O9Alamofire6Result", "Failure"]
+- !private ["O9Alamofire6Result", "Success"]
+- !private ["O9Alamofire6Result", "error"]
+- !private ["O9Alamofire6Result", "value"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "O9Alamofire6Method"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C11TodayWidget11NetworkBase"
+- !private "PSs16RawRepresentable"
+- !private "C9Alamofire7Request"
+- !private "V9Alamofire8Response"
+- !private "O9Alamofire6Result"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64.swiftmodule"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Headers/ObjectMapper-umbrella.h"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/module.modulemap"
+interface-hash: "fc46d650114fe45ace6a3ddae400a0c8"

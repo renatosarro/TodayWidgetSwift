@@ -1,0 +1,11 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "6fb3a6efc77a1851222c55e4592ea472"
+build_time: [511992288, 521581000]
+inputs:
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/TodayWidget/Cell/BaseTableViewCell.swift": [511991653, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/TodayWidget/Utils/Models/PostModel.swift": [511991228, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/TodayWidget/TodayViewController.swift": [511992279, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/TodayWidget/Utils/Networking/NetworkBase.swift": [511990445, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/TodayWidget/Utils/Models/BaseModel.swift": [511991093, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/TodayWidget/DataSourceDelegate/TableViewDataSourceDelegate.swift": [511991826, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/TodayWidget/API/API_Post.swift": [511990036, 0]

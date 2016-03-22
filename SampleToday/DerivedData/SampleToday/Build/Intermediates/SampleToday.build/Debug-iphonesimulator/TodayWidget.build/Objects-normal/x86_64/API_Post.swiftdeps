@@ -1,0 +1,112 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "API_Post"
+provides-nominal:
+- "C11TodayWidget8API_Post"
+provides-member:
+- ["C11TodayWidget8API_Post", ""]
+provides-dynamic-lookup:
+- "getPosts"
+depends-top-level:
+- "API_Post"
+- "NetworkBase"
+- "Void"
+- "AnyObject"
+depends-member:
+- ["C11TodayWidget8API_Post", "AnyObject"]
+- ["C11TodayWidget8API_Post", "Void"]
+- !private ["C11TodayWidget8API_Post", "callMethod"]
+- ["C11TodayWidget8API_Post", "deinit"]
+- ["C11TodayWidget8API_Post", "getPosts"]
+- ["C11TodayWidget8API_Post", "init"]
+- !private ["PSs9AnyObject", "callMethod"]
+- ["PSs9AnyObject", "getPosts"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "localizedDescription"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "callMethod"]
+- ["PSs11CVarArgType", "getPosts"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "localizedDescription"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs28CustomDebugStringConvertible", "Some"]
+- !private ["PSs23CustomStringConvertible", "callMethod"]
+- ["PSs23CustomStringConvertible", "getPosts"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "localizedDescription"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "callMethod"]
+- ["PSs9Equatable", "getPosts"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "localizedDescription"]
+- ["PSs9Equatable", ""]
+- !private ["PSs9ErrorType", "localizedDescription"]
+- !private ["PSs8Hashable", "callMethod"]
+- ["PSs8Hashable", "getPosts"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "localizedDescription"]
+- ["PSs8Hashable", ""]
+- !private ["PSo8NSCoding", "localizedDescription"]
+- !private ["PSo9NSCopying", "localizedDescription"]
+- !private ["CSo7NSError", "localizedDescription"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "callMethod"]
+- ["CSo8NSObject", "getPosts"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "localizedDescription"]
+- !private ["PSo16NSObjectProtocol", "callMethod"]
+- ["PSo16NSObjectProtocol", "getPosts"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "localizedDescription"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "localizedDescription"]
+- ["C11TodayWidget11NetworkBase", "AnyObject"]
+- ["C11TodayWidget11NetworkBase", "Void"]
+- !private ["C11TodayWidget11NetworkBase", "callMethod"]
+- ["C11TodayWidget11NetworkBase", "getPosts"]
+- ["C11TodayWidget11NetworkBase", "init"]
+- ["C11TodayWidget11NetworkBase", ""]
+- !private ["PSs21NilLiteralConvertible", "Some"]
+- !private ["Sq", "Some"]
+- !private ["SS", "deinit"]
+- !private ["PSs12_Reflectable", "Some"]
+depends-nominal:
+- "C11TodayWidget8API_Post"
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- !private "PSs9ErrorType"
+- "PSs8Hashable"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "CSo7NSError"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- "C11TodayWidget11NetworkBase"
+- !private "PSs21NilLiteralConvertible"
+- !private "Sq"
+- !private "SS"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64.swiftmodule"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Headers/ObjectMapper-umbrella.h"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/ObjectMapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/renatomatos/Documents/Dev/iOS/TodayWidget/TodayWidgetSwift/SampleToday/DerivedData/SampleToday/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/module.modulemap"
+interface-hash: "37a6f8b479b93cff346e9e3c41293101"
